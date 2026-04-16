@@ -79,7 +79,7 @@ The Student Management System is a web-based application built using Spring Boot
 2. Open the project in Eclipse / IntelliJ
 3. Run "StudentmanagementApplication.java"
 4. Open browser and go to:
-   http://localhost:8080
+   http://localhost:8080/login
 
 ---
 
