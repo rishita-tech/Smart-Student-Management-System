@@ -1,4 +1,4 @@
-📚 Smart Student Management System
+📚 Smart-Student-Management-System
 
 👩‍💻 Team Members
 
@@ -9,7 +9,7 @@
 
 📌 Project Description
 
-The Student Management System is a web-based application built using Spring Boot. It helps manage students, courses, and enrollments efficiently through a structured backend and user-friendly interface.
+The Smart-Student-Management-System(SMS) is a web-based application built using Spring Boot. It helps manage students, courses, and enrollments efficiently through a structured backend and user-friendly interface.
 
 ---
 
