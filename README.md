@@ -76,7 +76,7 @@ The Smart-Student-Management-System(SMS) is a web-based application built using 
 🚀 How to Run the Project
 
 1. Clone the repository
-2. Open the project in Eclipse / IntelliJ
+2. Open the project in Eclipse
 3. Run "StudentmanagementApplication.java"
 4. Open browser and go to:
    http://localhost:8080/login
